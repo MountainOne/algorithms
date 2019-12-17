@@ -4,6 +4,9 @@
 ## 动态规划
 - [LeetCode_139_WordBreak](https://github.com/MountainOne/algorithms/blob/master/139_WordBreak.md)
 
+## 数组
+- [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/15_3sum.md)
+
 ## 链表
 - [LeetCode_141_LinkedListCycle](https://github.com/MountainOne/algorithms/blob/master/141_LinkedListCycle.md)
 - [LeetCode_142_LinkedListCycle_2](https://github.com/MountainOne/algorithms/blob/master/141_LinkedListCycle_2.md)
