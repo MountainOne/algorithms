@@ -1,5 +1,5 @@
 ## LeetCode 139 Word Break
-topics: DP
+Topics: DP
 ### Description
 
 Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
@@ -23,7 +23,7 @@ Example 3:
 > Input: s = "catsandog", wordDict = ["cats", "dog", "sand", "and", "cat"]
 Output: false
 ### Solution
-对于当前索引 i 的状态，如果它之前的某个状态 j 可以被划分，那么只要判断 j 到 i 的这个单词是否在 wordDict 里，就可以确定状态 i 也是可以被划分的，实现代码如下。
+对于当前索引 i 的状态，如果它之前的某个状态 j 可以被划分，那么只要判断 j 到 i 的这个单词是否在 wordDict 里，就可以确定状态 i 也是可以被划分的。
 
 ```Python
 class Solution:
