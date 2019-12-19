@@ -23,6 +23,9 @@
 - [LeetCode_160_IntersectionTwoLinkedList](https://github.com/MountainOne/algorithms/blob/master/160_IntersectionTwoLinkedList.md)
 - [LeetCode_206_ReverseLinkedList](https://github.com/MountainOne/algorithms/blob/master/206_ReverseLinkedList.md)
 
+# 树
+- [LeetCode_226_InvertBinaryTree](https://github.com/MountainOne/algorithms/blob/master/226_InvertBinaryTree.md)
+
 ## 图
 - [LeetCode_200_NumberOfIslands](https://github.com/MountainOne/algorithms/blob/master/200_NumberOfIslands.md)
 - [LeetCode_207_CourseSceduled](https://github.com/MountainOne/algorithms/blob/master/207_CourseSceduled.md)
