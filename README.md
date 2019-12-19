@@ -24,6 +24,7 @@
 
 # 图
 - [LeetCode_200_NumberOfIslands](https://github.com/MountainOne/algorithms/blob/master/200_NumberOfIslands.md)
+- [LeetCode_207_CourseSceduled](https://github.com/MountainOne/algorithms/blob/master/207_CourseSceduled.md)
 
 ## 设计
 - [LeetCode_146_LRU](https://github.com/MountainOne/algorithms/blob/master/146_LRU.md)
