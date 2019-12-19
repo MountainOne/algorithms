@@ -17,6 +17,7 @@
 - [LeetCode_141_LinkedListCycle](https://github.com/MountainOne/algorithms/blob/master/141_LinkedListCycle.md)
 - [LeetCode_142_LinkedListCycle_2](https://github.com/MountainOne/algorithms/blob/master/141_LinkedListCycle_2.md)
 - [LeetCode_148_SortList](https://github.com/MountainOne/algorithms/blob/master/148_SortList.md)
+- [LeetCode_160_IntersectionTwoLinkedList](https://github.com/MountainOne/algorithms/blob/master/160_IntersectionTwoLinkedList.md)
 
 ## 设计
 - [LeetCode_146_LRU](https://github.com/MountainOne/algorithms/blob/master/146_LRU.md)
