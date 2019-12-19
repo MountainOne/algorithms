@@ -20,31 +20,18 @@ easy
 出现该数时，计数器加一，未出现时减一。当计数器被减为 0 时，修改计数器对应的数，并重新记次数。
 
 ```Python
-class MinStack:
-
-    def __init__(self):
-        """
-        initialize your data structure here.
-        """
-        self.stack = []
-        self.min_val = float('inf')
-        
-
-    def push(self, x: int) -> None:
-        self.min_val =  min(x, self.min_val)
-        self.stack.append(x)
-
-    def pop(self) -> None:
-        tmp = self.stack.pop()
-        if tmp == self.min_val:
-            self.min_val = float('inf')
-            for i in range(len(self.stack)):
-                self.min_val = min(self.min_val, self.stack[i])
-
-    def top(self) -> int:
-        length = len(self.stack)
-        return self.stack[length - 1]
-
-    def getMin(self) -> int:
-        return self.min_val
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        cnt = 1
+        num = nums[0]
+        for i in range(1, len(nums)):
+            if nums[i] == num:
+                cnt += 1
+            else:
+                if cnt <= 0:
+                    cnt = 1
+                    num = nums[i]
+                else:
+                    cnt -= 1
+        return num
 ```

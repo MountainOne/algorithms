@@ -4,6 +4,7 @@
 ## 动态规划
 - [LeetCode_139_WordBreak](https://github.com/MountainOne/algorithms/blob/master/139_WordBreak.md)
 - [LeetCode_152_MaxProductSubarray](https://github.com/MountainOne/algorithms/blob/master/152_MaxProductSubarray.md)
+- [LeetCode_198_HouseRobber](https://github.com/MountainOne/algorithms/blob/master/198_HouseRobber.md)
 
 ## 数组
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/15_3sum.md)
