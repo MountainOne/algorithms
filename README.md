@@ -11,6 +11,7 @@
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/15_3sum.md)
 - [LeetCode_152_MaxProductSubarray](https://github.com/MountainOne/algorithms/blob/master/152_MaxProductSubarray.md)
 - [LeetCode_169_MajorityElement](https://github.com/MountainOne/algorithms/blob/master/169_MajorityElement.md)
+- [LeetCode_1292_MaximumSideLength](https://github.com/MountainOne/algorithms/blob/master/1292_MaximumSideLength.md)
 
 ## 栈
 - [LeetCode_155_MinStack](https://github.com/MountainOne/algorithms/blob/master/155_MinStack.md)
@@ -30,6 +31,8 @@
 ## 图
 - [LeetCode_200_NumberOfIslands](https://github.com/MountainOne/algorithms/blob/master/200_NumberOfIslands.md)
 - [LeetCode_207_CourseSceduled](https://github.com/MountainOne/algorithms/blob/master/207_CourseSceduled.md)
+- [LeetCode_1293_ShortestPathInGrid](https://github.com/MountainOne/algorithms/blob/master/1293_ShortestPathInGrid.md)
+
 
 ## 堆
 - [LeetCode_215_kLargestElementInArray](https://github.com/MountainOne/algorithms/blob/master/215_kLargestElementInArray.md)
