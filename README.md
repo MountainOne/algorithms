@@ -27,6 +27,7 @@
 
 # 树
 - [LeetCode_226_InvertBinaryTree](https://github.com/MountainOne/algorithms/blob/master/226_InvertBinaryTree.md)
+- [LeetCode_236_LowestCommonAncestor](https://github.com/MountainOne/algorithms/blob/master/236_LowestCommonAncestor.md)
 
 ## 图
 - [LeetCode_200_NumberOfIslands](https://github.com/MountainOne/algorithms/blob/master/200_NumberOfIslands.md)
