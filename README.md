@@ -6,6 +6,7 @@
 - [LeetCode_152_MaxProductSubarray](https://github.com/MountainOne/algorithms/blob/master/LeetCode/152_MaxProductSubarray.md)
 - [LeetCode_198_HouseRobber](https://github.com/MountainOne/algorithms/blob/master/LeetCode/198_HouseRobber.md)
 - [LeetCode_221_MaximalSquare](https://github.com/MountainOne/algorithms/blob/master/LeetCode/221_MaximalSquare.md)
+- [LeetCode_279_PerfectSquares](https://github.com/MountainOne/algorithms/blob/master/LeetCode/279_PerfectSquares.md)
 
 ## 数组
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/15_3sum.md)
@@ -29,7 +30,7 @@
 - [LeetCode_206_ReverseLinkedList](https://github.com/MountainOne/algorithms/blob/master/LeetCode/206_ReverseLinkedList.md)
 - [LeetCode_234_PalindromeLinkedList](https://github.com/MountainOne/algorithms/blob/master/LeetCode/234_PalindromeLinkedList.md)
 
-# 树
+## 树
 - [LeetCode_226_InvertBinaryTree](https://github.com/MountainOne/algorithms/blob/master/LeetCode/226_InvertBinaryTree.md)
 - [LeetCode_236_LowestCommonAncestor](https://github.com/MountainOne/algorithms/blob/master/LeetCode/236_LowestCommonAncestor.md)
 
