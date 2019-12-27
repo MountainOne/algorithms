@@ -15,6 +15,7 @@
 - [LeetCode_238_ProductArrayExceptSelf](https://github.com/MountainOne/algorithms/blob/master/LeetCode/238_ProductArrayExceptSelf.md)
 - [LeetCode_240_Search2dMatrix](https://github.com/MountainOne/algorithms/blob/master/LeetCode/240_Search2dMatrix.md)
 - [LeetCode_283_MoveZeros](https://github.com/MountainOne/algorithms/blob/master/LeetCode/283_MoveZeros.md)
+- [LeetCode_287_FindDuplicateNumber](https://github.com/MountainOne/algorithms/blob/master/LeetCode/287_FindDuplicateNumber.md)
 - [LeetCode_1292_MaximumSideLength](https://github.com/MountainOne/algorithms/blob/master/LeetCode/1292_MaximumSideLength.md)
 
 
@@ -43,8 +44,10 @@
 ## 堆
 - [LeetCode_215_kLargestElementInArray](https://github.com/MountainOne/algorithms/blob/master/LeetCode/215_kLargestElementInArray.md)
 - [LeetCode_239_SlidingWindowMaximum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/239_SlidingWindowMaximum.md)
+- [LeetCode_295_FindMedian](https://github.com/MountainOne/algorithms/blob/master/LeetCode/295_FindMedia.md)
 
 ## 设计
 - [LeetCode_146_LRU](https://github.com/MountainOne/algorithms/blob/master/LeetCode/146_LRU.md)
 - [LeetCode_155_MinStack](https://github.com/MountainOne/algorithms/blob/master/LeetCode/155_MinStack.md)
 - [LeetCode_208_PrefixTree](https://github.com/MountainOne/algorithms/blob/master/LeetCode/208_PrefixTree.md)
+- [LeetCode_295_FindMedian](https://github.com/MountainOne/algorithms/blob/master/LeetCode/295_FindMedia.md)
