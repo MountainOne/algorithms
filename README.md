@@ -56,6 +56,7 @@
 - [LeetCode_215_kLargestElementInArray](https://github.com/MountainOne/algorithms/blob/master/LeetCode/215_kLargestElementInArray.md)
 - [LeetCode_239_SlidingWindowMaximum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/239_SlidingWindowMaximum.md)
 - [LeetCode_295_FindMedian](https://github.com/MountainOne/algorithms/blob/master/LeetCode/295_FindMedia.md)
+- [LeetCode_347_TopKFrequent](https://github.com/MountainOne/algorithms/blob/master/LeetCode/347_TopKFrequent.md)
 
 ## 设计
 - [LeetCode_146_LRU](https://github.com/MountainOne/algorithms/blob/master/LeetCode/146_LRU.md)
