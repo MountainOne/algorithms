@@ -30,6 +30,7 @@
 
 ## 栈
 - [LeetCode_155_MinStack](https://github.com/MountainOne/algorithms/blob/master/LeetCode/155_MinStack.md)
+- [LeetCode_394_DecodeString](https://github.com/MountainOne/algorithms/blob/master/LeetCode/394_DecodeString.md)
 
 ## 链表
 - [LeetCode_1_TwoSum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/1_TwoSum.md)
