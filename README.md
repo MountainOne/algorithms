@@ -9,6 +9,7 @@
 - [LeetCode_279_PerfectSquares](https://github.com/MountainOne/algorithms/blob/master/LeetCode/279_PerfectSquares.md)
 - [LeetCode_300_LongestIncreasingSubsequence](https://github.com/MountainOne/algorithms/blob/master/LeetCode/300_LongestIncreasingSubsequence.md)
 - [LeetCode_309_BestTimeBuyStock](https://github.com/MountainOne/algorithms/blob/master/LeetCode/309_BestTimeBuyStock.md)
+- [LeetCode_312_BurstBalloons](https://github.com/MountainOne/algorithms/blob/master/LeetCode/312_BurstBalloons.md)
 
 ## 数组
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/15_3sum.md)
