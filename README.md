@@ -11,6 +11,8 @@
 - [LeetCode_309_BestTimeBuyStock](https://github.com/MountainOne/algorithms/blob/master/LeetCode/309_BestTimeBuyStock.md)
 - [LeetCode_312_BurstBalloons](https://github.com/MountainOne/algorithms/blob/master/LeetCode/312_BurstBalloons.md)
 - [LeetCode_322_CoinChange](https://github.com/MountainOne/algorithms/blob/master/LeetCode/322_CoinChange.md)
+- [LeetCode_338_CountingBits](https://github.com/MountainOne/algorithms/blob/master/LeetCode/338_CountingBits.md)
+
 
 ## 数组
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/15_3sum.md)
@@ -60,3 +62,6 @@
 - [LeetCode_155_MinStack](https://github.com/MountainOne/algorithms/blob/master/LeetCode/155_MinStack.md)
 - [LeetCode_208_PrefixTree](https://github.com/MountainOne/algorithms/blob/master/LeetCode/208_PrefixTree.md)
 - [LeetCode_295_FindMedian](https://github.com/MountainOne/algorithms/blob/master/LeetCode/295_FindMedia.md)
+
+## 二进制
+- [LeetCode_338_CountingBits](https://github.com/MountainOne/algorithms/blob/master/LeetCode/338_CountingBits.md)
