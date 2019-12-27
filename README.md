@@ -1,4 +1,4 @@
-# Python_Algorithm
+# Python Algorithm
 按专题进行总结的常见算法面试题（LeetCode 为主），基于 Python 实现。
 
 ## 动态规划
@@ -7,6 +7,7 @@
 - [LeetCode_198_HouseRobber](https://github.com/MountainOne/algorithms/blob/master/LeetCode/198_HouseRobber.md)
 - [LeetCode_221_MaximalSquare](https://github.com/MountainOne/algorithms/blob/master/LeetCode/221_MaximalSquare.md)
 - [LeetCode_279_PerfectSquares](https://github.com/MountainOne/algorithms/blob/master/LeetCode/279_PerfectSquares.md)
+- [LeetCode_300_LongestIncreasingSubsequence](https://github.com/MountainOne/algorithms/blob/master/LeetCode/300_LongestIncreasingSubsequence.md)
 
 ## 数组
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/15_3sum.md)
