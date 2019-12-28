@@ -14,6 +14,7 @@
 - [LeetCode_338_CountingBits](https://github.com/MountainOne/algorithms/blob/master/LeetCode/338_CountingBits.md)
 - [LeetCode_416_PartitionEqualSubsetSum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/416_PartitionEqualSubsetSum.md)
 - [LeetCode_494_TargetSum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/494_TargetSum.md)
+- [LeetCode_647_PalindromicSubstrings](https://github.com/MountainOne/algorithms/blob/master/LeetCode/647_PalindromicSubstrings.md)
 
 ## 数组
 - [LeetCode_15_3sum](https://github.com/MountainOne/algorithms/blob/master/LeetCode/15_3sum.md)
